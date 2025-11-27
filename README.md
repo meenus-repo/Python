@@ -21,3 +21,22 @@ read_write_excel_file
 8_concat
 
 9_merge
+
+
+Matplotlib:
+
+1_matplotlib_introduction
+
+2_matplotlib_format_strings
+
+3_legends_grid_axes_labels
+
+4_bar_chart
+
+5_histogram
+
+6_pie_chart
+
+7_saving_chart_to_file
+
+10_subplots
